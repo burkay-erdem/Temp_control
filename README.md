@@ -1,3 +1,5 @@
+# REFERENCE
+
 # STM32_HAL_FREEMODBUS_RTU
 FreeMODBUS RTU port for STM32 HAL library
 
